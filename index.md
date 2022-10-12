@@ -1,7 +1,7 @@
-# family secret recipes
+# Bhandari's family secret recipes
 
 Set of recipes given by my grandma
 
--pizzas(TODO)
--sauces(TODO)
--spreads(TODO)
+-pitzas(TODO)
+-sauses(TODO)
+-reads(TODO)
