@@ -2,6 +2,6 @@
 
 Set of recipes given by my grandma
 
--pitzas(TODO)
+-pizas(TODO)
 -sauses(TODO)
 -reads(TODO)
